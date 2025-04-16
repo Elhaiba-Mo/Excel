@@ -1,6 +1,7 @@
 📄 Overview
 
 The Global Superstore 2016 dataset contains sales data from a fictional global retail company. It includes detailed records of orders, shipments, customers, and regional performance across multiple countries. This dataset is often used for business intelligence, analytics, and data visualization projects to simulate real-world retail scenarios.
+
 📁 File
 Filename: global_superstore_2016.xlsx
 
