@@ -8,6 +8,7 @@ Filename: global_superstore_2016.xlsx
 Format: Microsoft Excel (.xlsx)
 
 Contains: One or more sheets with transactional and dimensional data
+
 🔍 Potential Use Cases
 Sales performance analysis
 
